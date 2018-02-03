@@ -1,0 +1,12 @@
+[commit]
+    gpgsign = true
+[core]
+    editor = vim
+[user]
+	name = Freddy Martinez
+	email = freddy@freedom.press
+	signingkey = 0x76BEA26769ACD5C5
+[credential]
+	helper = cache
+[gpg]
+	program = gpg2
